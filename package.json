@@ -10,7 +10,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@ai-sdk/openai": "^1.0.8",
     "@xaviabot/fb-downloader": "^1.0.14",
+    "ai": "^4.0.20",
     "axios": "^1.7.9",
     "betabotz-tools": "^0.0.7",
     "body-parser": "^1.20.3",
@@ -27,6 +29,7 @@
     "kleur": "^4.1.5",
     "mal-scraper": "^2.13.2",
     "nexo-aio-downloader": "^1.4.1",
-    "ssl-express-www": "^3.2.1"
+    "ssl-express-www": "^3.2.1",
+    "unlimited-ai": "^5.0.1"
   }
 }

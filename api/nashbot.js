@@ -3,7 +3,7 @@ const Groq = require("groq-sdk");
 const groq = new Groq({ apiKey: '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' });
 
 exports.config = {
-    name: 'nashbot',
+    name: 'rtm',
     author: 'Joshua Apostol',
     description: 'chat with nashbot',
     method: 'get',
